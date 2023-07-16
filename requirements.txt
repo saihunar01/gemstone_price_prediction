@@ -1,1 +1,8 @@
+
+pandas
+numpy
 Flask
+seaborn
+
+
+-e.
